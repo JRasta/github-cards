@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Software Used:
+
+NodeJS.<br>
+WebStorm.<br>
+Axios.
+
+## TODO
+
+1. Align profiles pictures correctly (Use Bootstrap grid).
+2. Line 3 cards up in one row ?!?.
+
 ## Available Scripts
 
 In the project directory, you can run:
